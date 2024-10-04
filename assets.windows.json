@@ -1,12 +1,12 @@
 {
   "files": [
     {
-      "localfile": "assets/appearances-d5ef2e0c0b8cd4d38e98eccc5525f484fdb824453f6804fbc63e376216a85618.dat",
-      "packedhash": "6bccedcdd134628b36f81becdaa419d3d44d802d52223e7a0878e1f4032a4df4",
-      "packedsize": 598448,
-      "url": "assets/appearances-d5ef2e0c0b8cd4d38e98eccc5525f484fdb824453f6804fbc63e376216a85618.dat.lzma",
-      "unpackedhash": "d5ef2e0c0b8cd4d38e98eccc5525f484fdb824453f6804fbc63e376216a85618",
-      "unpackedsize": 4439905
+      "localfile": "assets/appearances-d7ce621e00198dfa6d5dacfa05dfc2d06d8cee04e719d49f6e438e4f694c60a5.dat",
+      "packedhash": "2154cc0f0e622e41d4c58eb8d8e121c83896e185e47d88c1c89329c520ee0aba",
+      "packedsize": 777271,
+      "url": "assets/appearances-d7ce621e00198dfa6d5dacfa05dfc2d06d8cee04e719d49f6e438e4f694c60a5.dat.lzma",
+      "unpackedhash": "504ab0c4d1cf44351032672ca05690d255a011d2d9d89140d09fa05714291907",
+      "unpackedsize": 4440714
     },
     {
       "localfile": "assets/catalog-content.json",
